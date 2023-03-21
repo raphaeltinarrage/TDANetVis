@@ -12,6 +12,8 @@ We adress both problems from the perspective of Topological Data Analysis, and m
 
 ## Software demonstration
 
+A Jupyter notebook, including our implementations of resolutions suggestion and colored barcodes, can be accessed at https://github.com/raphaeltinarrage/TDANetVis/blob/main/Demo.ipynb
+
 ## Preprint paper
 
 ## Example
