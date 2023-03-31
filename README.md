@@ -10,6 +10,8 @@ We adress both problems from the perspective of Topological Data Analysis, and m
 
 ## Video demonstration
 
+https://user-images.githubusercontent.com/57508719/229124755-3055d49a-3966-44a1-a7ba-afefd25bc4f3.mp4
+
 ## Software demonstration
 
 Link: http://visualdslab.com/tdanetvis/
